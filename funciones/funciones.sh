@@ -1,4 +1,4 @@
 #!/bin/bash
-function saludo(){
+function saludo() {
     echo "Hola desde funciones"
 }
